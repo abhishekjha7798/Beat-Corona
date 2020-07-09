@@ -1,5 +1,4 @@
 # Beat-Corona
-Simple game where the player has to evade the coronavirus elements present in the game while picking masks, sanitizers and self-quarantine elements.
 Together, the world is facing a truly unprecedented situation. The global coronavirus pandemic is affecting our work, our families and also our way of life. First and foremost, our hearts go out to anyone who's been impacted by the virus, either directly or indirectly. We sincerely wish that all those who are sick may recover completely at the earliest. We are truly thankful to the doctors and the healthcare workers who are risking their lives to take care of the people in need. 
 
 
